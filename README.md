@@ -8,8 +8,9 @@
 
 <img align="right" width=350px alt="adam-pw" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
 
-Soy un ingeniero en sistemas computacionales apasionado por el desarrollo de software, especializado en FrontEnd, pero con experiencia en backend y otras áreas del desarrollo. Me encanta aprender y construir cosas productivas, innovadoras y creativas.
-- 🌱 Tengo más de 2 años de experiencia profesional. Desarrollé, optimicé, y brinde mantenimiento a múltiples applicaciones.
+Soy Ingeniero en Sistemas Computacionales con 3 años de experiencia en desarrollo de software. Full stack con especialización en frontend web, adaptable a nuevas tecnologías, orientado a la resolución de problemas y a crear soluciones innovadoras, eficientes y de impacto en entornos profesionales.
+
+- 🌱 Tengo 3 años de experiencia profesional. Desarrollé, optimicé, y brinde mantenimiento a múltiples applicaciones.
 - 👯 Estoy interesado en colaborar en proyectos de código abierto.
 - 🤔 También trabajo como freelancer.
 - 👨‍💻 Actualmente, estoy trabajando con tecnologías de desarrollo web como JavaScript, Node.js, React, entre otras.
